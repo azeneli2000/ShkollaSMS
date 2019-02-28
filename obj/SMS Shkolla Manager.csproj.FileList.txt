@@ -1,0 +1,18 @@
+bin\Debug\SMS Shkolla Manager.exe
+bin\Debug\SMS Shkolla Manager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SMS_Shkolla_Manager.Properties.Resources.resources
+obj\Debug\SMS Shkolla Manager.csproj.GenerateResource.Cache
+obj\Debug\SMS Shkolla Manager.exe
+obj\Debug\SMS Shkolla Manager.pdb
+bin\Debug\Janus.Windows.Common.dll
+bin\Debug\Janus.Windows.GridEX.dll
+bin\Debug\Janus.Windows.GridEX.xml
+obj\Debug\SMS Shkolla Manager.exe.licenses
+bin\Debug\Janus.Windows.UI.v2.dll
+bin\Debug\Janus.Windows.Common.v2.dll
+obj\Debug\SMS_Shkolla_Manager.Main.resources
+bin\Debug\SMS Shkolla Manager.exe.config
+obj\Debug\SMS_Shkolla_Manager.NgarkoSkedare.resources
+obj\Debug\SMS_Shkolla_Manager.KerkeseSMS.resources
+obj\Debug\SMS_Shkolla_Manager.AktivizoKerkese.resources

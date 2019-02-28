@@ -1,0 +1,44 @@
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\SMS Shkolla Manager.exe.config
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS Shkolla Manager.exe
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS Shkolla Manager.pdb
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\SMS Shkolla Manager.exe
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\SMS Shkolla Manager.pdb
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\Janus.Windows.Common.dll
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\Janus.Windows.GridEX.dll
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\Janus.Windows.UI.v2.dll
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\Janus.Windows.Common.v2.dll
+D:\SMS Shkolla Manager\SMS Shkolla Manager\bin\Debug\Janus.Windows.GridEX.xml
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS_Shkolla_Manager.AktivizoKerkese.resources
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS_Shkolla_Manager.KerkeseSMS.resources
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS_Shkolla_Manager.Main.resources
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS_Shkolla_Manager.NgarkoSkedare.resources
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS_Shkolla_Manager.Properties.Resources.resources
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS Shkolla Manager.csproj.GenerateResource.Cache
+D:\SMS Shkolla Manager\SMS Shkolla Manager\obj\Debug\SMS Shkolla Manager.exe.licenses
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\bin\Debug\SMS Shkolla Manager.exe.config
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.exe
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.pdb
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\ResolveAssemblyReference.cache
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.AktivizoKerkese.resources
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.KerkeseSMS.resources
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.Main.resources
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.NgarkoSkedare.resources
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.Properties.Resources.resources
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.csproj.GenerateResource.Cache
+D:\flash i madh\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.exe.licenses
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\bin\Debug\SMS Shkolla Manager.exe.config
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.exe
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.pdb
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\bin\Debug\SMS Shkolla Manager.exe
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\bin\Debug\SMS Shkolla Manager.pdb
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\bin\Debug\Janus.Windows.Common.v2.dll
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\bin\Debug\Janus.Windows.GridEX.xml
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\ResolveAssemblyReference.cache
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.AktivizoKerkese.resources
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.KerkeseSMS.resources
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.Main.resources
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.NgarkoSkedare.resources
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS_Shkolla_Manager.Properties.Resources.resources
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.csproj.GenerateResource.Cache
+C:\programet\SMS SHKOLLA\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.exe.licenses

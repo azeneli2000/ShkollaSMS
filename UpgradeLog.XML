@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SMS Shkolla Manager">
+</Property><Property Name="Solution File" Value="C:\SMS Shkolla Manager_SOURCE\SMS Shkolla Manager.sln">
+</Property><Property Name="User Options File" Value="C:\SMS Shkolla Manager_SOURCE\SMS Shkolla Manager.suo">
+</Property><Property Name="Date" Value="Tuesday, October 22, 2013">
+</Property><Property Name="Time" Value="17:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SMS Shkolla Manager.sln" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\SMS Shkolla Manager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SMS Shkolla Manager.suo" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\SMS Shkolla Manager.suo">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="SMS Shkolla Manager.csproj" Description="Project file successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\SMS Shkolla Manager.csproj">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="AktivizoKerkese.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\AktivizoKerkese.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="AktivizoKerkese.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\AktivizoKerkese.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="ConnDbase.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\ConnDbase.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="DProgNecDataSet.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\DProgNecDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="EnhancedMailMessage.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\EnhancedMailMessage.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="FTPFactory.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\FTPFactory.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="KlaseExcel.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\KlaseExcel.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Hash.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Hash.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="KerkeseSMS.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\KerkeseSMS.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="KerkeseSMS.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\KerkeseSMS.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Main.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Main.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="NgarkoSkedare.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\NgarkoSkedare.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="NgarkoSkedare.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\NgarkoSkedare.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Program.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="ZippClass.cs" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\ZippClass.cs">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="app.config" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="DProgNecDataSet.xsc" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\DProgNecDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="DProgNecDataSet.xsd" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\DProgNecDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="DProgNecDataSet.xss" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\DProgNecDataSet.xss">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Properties\Settings.settings" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Resources\search_24.png" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Resources\search_24.png">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Sent-Mail.ico" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Sent-Mail.ico">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="AktivizoKerkese.resx" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\AktivizoKerkese.resx">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="KerkeseSMS.resx" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\KerkeseSMS.resx">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Main.resx" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="NgarkoSkedare.resx" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\NgarkoSkedare.resx">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Properties\licenses.licx" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="Properties\Resources.resx" Description="File successfully backed up as C:\SMS Shkolla Manager_SOURCE\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="SMS Shkolla Manager" Source="SMS Shkolla Manager.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="SMS Shkolla Manager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMS Shkolla Manager" Source="SMS Shkolla Manager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SMS Shkolla Manager.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SMS Shkolla Manager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMS Shkolla Manager" Source="SMS Shkolla Manager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

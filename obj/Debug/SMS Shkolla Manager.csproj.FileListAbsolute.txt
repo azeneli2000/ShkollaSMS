@@ -1,0 +1,3 @@
+C:\SMS Shkolla Manager_SOURCE\bin\Debug\SMS Shkolla Manager.exe.config
+C:\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.exe
+C:\SMS Shkolla Manager_SOURCE\obj\Debug\SMS Shkolla Manager.pdb
